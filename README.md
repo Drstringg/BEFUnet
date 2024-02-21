@@ -8,10 +8,13 @@
 
 - **`2024/02/21` First release.**
 
-![images](Figures/model.png)
 
 ## Train & Test --- Synapse Dataset
-Please go to ["Colab_BEFUnet.ipynb"](https://github.com/Omid-Nejati/BEFUnet/blob/main/Colab_BEFUnet.ipynb) for complete detail on dataset preparation and Train/Test procedure or follow the instructions below. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1k3oHisztINVHZaqYcWBnkFTwyImLlkDm?usp=sharing)
+Please go to ["Colab_BEFUnet.ipynb"](https://github.com/Omid-Nejati/BEFUnet/blob/main/Colab_BEFUnet.ipynb) for complete detail on dataset preparation and Train/Test procedure or follow the instructions below. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/111rqGXSHQ6v6grXuA3VyhWBxZkNtGZrz?usp=sharing)
+
+## 
+
+![images](Figures/model.png)
 
 # Usage
 ## Installation
